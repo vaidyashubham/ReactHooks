@@ -1,3 +1,16 @@
+## React Hooks
+Hooks are a new feature addition in React version 16.8 which allows you to use React features without having to write class.
+Hooks explained with examples are as follows:
+
+1. useState()
+2. useEffect()
+3. useContext() 
+4. useReducer()
+5. useCallback()
+6. useMemo()
+7. useRef()
+8. CustomHooks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
